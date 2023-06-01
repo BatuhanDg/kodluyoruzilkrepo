@@ -23,6 +23,8 @@ code .
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
+![patika.dev](https://kodluyoruz.org/wp-content/uploads/2022/12/Hand-coding-bro-1024x1024.png)
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
